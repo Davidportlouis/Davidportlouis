@@ -1,6 +1,6 @@
 ### Hi there 👋, I am David Port Louis
 
-![](https://github.com/davidportlouis/davidportlouis/user_info.png)
+![](https://github.com/Davidportlouis/Davidportlouis/user_info.png)
 
 
 
