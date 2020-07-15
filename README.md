@@ -1,24 +1,10 @@
-### Hi there 👋
-
-[![](https://img.shields.io/badge/LinkedIn-davidportlouis-blue)](https://linkedin.com/in/davidportlouis)
-[![](https://img.shields.io/badge/gmail-dportlouis%40gmail.com-red)](mailto:dportlouis@gmail.com)
-
-![](https://github.com/Davidportlouis/Davidportlouis/blob/master/user_info.png)
-
+<h2> Hi, I'm David Port Louis!<h2>
+<img align="right" src="./assets/developer.gif" width=230>
+[![Twitter: art3mis_17](https://img.shields.io/twitter/follow/art3mis_17?label=Follow%20%40art3mis_17&style=social)](https://twitter.com/art3mis_17)
+[![Linkedin: davidportlouis](https://img.shields.io/badge/-davidportlouis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidportlouis/)](https://www.linkedin.com/in/davidportlouis/)
+[![GitHub followers](https://img.shields.io/github/followers/davidportlouis?label=Follow&style=social)](https://github.com/davidportlouis)
 
 
-<!--
-### Hi there 👋, I am David Port Louis
+### A little more about me...
 
-
-**Davidportlouis/Davidportlouis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-
-- 🧠 I’m currently working on **Deep Learning** 
-- 🤖 I’m currently learning **Deep Reinforcement Learning**
-- 💬 Ask me about **Artifical Intelligence**
-- 📫 How to reach me: [dportlouis@gmail.com](dportlouis@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm crazy about **open source** projects
--->
+![](https://github.com/davidportlouis/davidportlouis/blob/master/user_info.png)
