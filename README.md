@@ -1,4 +1,7 @@
-### Hi there 👋, I am David Port Louis
+### Hi there 👋
+
+[![](https://img.shields.io/badge/LinkedIn-davidportlouis-blue)](https://linkedin.com/in/davidportlouis)
+[![](https://img.shields.io/badge/gmail-dportlouis%40gmail.com-red)](mailto:dportlouis@gmail.com)
 
 ![](https://github.com/Davidportlouis/Davidportlouis/blob/master/user_info.png)
 
