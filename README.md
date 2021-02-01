@@ -10,4 +10,4 @@
 
 ![](https://github.com/davidportlouis/davidportlouis/blob/master/assets/about.png)
 
-[![David Port Louis's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidportlouis&count_private=true&show_icons=true&theme=onedark)(https://github.com/anuraghazra/github-readme-stats)
+[![David Port Louis's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidportlouis&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
