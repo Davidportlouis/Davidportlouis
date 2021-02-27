@@ -10,4 +10,4 @@
 
 ![](https://github.com/davidportlouis/davidportlouis/blob/master/assets/about.png)
 
-[![David Port Louis's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidportlouis&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+[![David Port Louis's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidportlouis&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"> <img src="https://maxcdn.icons8.com/Share/icon/Operating_Systems/linux1600.png" width="100">
